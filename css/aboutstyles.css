@@ -1,0 +1,81 @@
+  
+h1 {
+    color: black;
+    font-family: 'Belgrano';font-size: 50px;
+    padding: 10px;
+    text-align: center;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+body{
+    background-color: linen;
+     font-size: 18px;
+        text-align: center;
+}
+
+p{
+    font-family: 'Belgrano', Georgia, serif;
+    color: black;
+    padding-left: 10px;
+    text-align: left;
+    float:none;
+   
+}
+
+img{
+    height: 600px;
+    width 600px;
+   
+
+}
+
+
+
+
+
+div{ 
+    height: 600px;
+    width: 600px;
+    padding: 50px;
+    display: inline-block;
+    
+}
+
+
+ul{
+
+    text-align: center;
+    vertical-align: center;
+    padding: 50px;
+
+}
+
+li{
+    font-family: 'Belgrano', Georgia, serif;
+    color: black;
+    padding: 30px;
+    display: inline;
+}
+
+table{
+    border: 1px;
+}
+
+hr{ 
+    border-top:1px solid #000;
+    width: 80%;
+
+}
+
+p1{
+    color: black;
+    font-family: 'Belgrano';
+    padding: 30px;
+    padding-top: 50px;
+    
+}
+
+/*sadkjf sdf*/
